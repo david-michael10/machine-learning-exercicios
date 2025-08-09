@@ -1,2 +1,1 @@
-# machine-learning-exercicios
-Exercícios simples de Machine Learning
+Expressões regulares: Extrair informações (número, CPF e URLs) de um texto 
